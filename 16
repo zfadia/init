@@ -1,0 +1,12 @@
+On peut utiliser cron
+m h dom mon dow user cmd
+pour lancer des taches reguliere.
+
+Champ	    Description	            Valeur acceptée
+m	        minutes	                0-59
+h	        heure	                0-23
+dom	        jour du mois	        1-31
+mon	        mois	                1-12
+dow	        jour de la semaine	    0-6
+user	    utilisateur	            n’importe quel utilisateur valide
+command	    commande	            n’importe quelle commande valide

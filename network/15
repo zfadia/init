@@ -1,0 +1,7 @@
+pour pointer une adresse ip vres in domaine ou un sous domaine il faut ajouter les information dans le fichier hosts 
+ce qui donne:
+ etc cat hosts
+127.0.0.1       localhost
+46.19.122.85    intra.42.fr
+255.255.255.255 broadcasthost
+::1             localhost
