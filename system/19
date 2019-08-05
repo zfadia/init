@@ -1,0 +1,3 @@
+service --status-all
+
+daemons

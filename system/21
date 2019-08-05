@@ -1,0 +1,1 @@
+grep -Ff /etc/shells /etc/passwd |grep -d :  -f1

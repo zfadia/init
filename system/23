@@ -1,0 +1,5 @@
+Pour se connecter en nouvelle utilisateur il faut entrer la commande :
+
+su [nom d'utilisateur]
+
+Vous sera ensuite demande un mot de passe
